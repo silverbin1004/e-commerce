@@ -1,6 +1,6 @@
 # 🐶Ecommerce - Petopia🐶
 
-![메인 이미지](Full_3_1team/main.png)
+![메인 이미지](main.png)
 
 ## 📖Description
 
